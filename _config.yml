@@ -1,8 +1,8 @@
 # ----
 # Site
 
-title: Hydra Template
-url: "https://proud-alligator.cloudvent.net"
+title: Superhero
+url: "https://superhero.justinwalz.co"
 baseurl:
 google_analytics_key:
 google_maps_javascript_api_key:
@@ -10,11 +10,11 @@ disqus_shortname:
 
 # Values for the jekyll-seo-tag gem (https://github.com/jekyll/jekyll-seo-tag)
 logo: /siteicon.png
-description: Product marketing template for Jekyll.
+description: Product page for Superhero.
 author:
   name:
-  email:
-  twitter: # twitter username without the @ symbol
+  email: 'team@superhero.co'
+  twitter: '@superheroworkout'
 social:
   name: Hydra Template
   links:
@@ -23,7 +23,7 @@ social:
 # -----
 # Build
 
-timezone: Etc/UTC
+timezone: America/Los_Angeles	
 
 collections:
   staff_members:
